@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                println "Build"
+                println "Build,kai"
             }
         }
         stage('Test') {
